@@ -20,5 +20,3 @@ Header| Host(Domain), Token(DNS) | Cookie, Many cookie(create), |
 Blank Line| Nothing | Nothing |
 Body| data like username and pwd | HTML |
 
-
-

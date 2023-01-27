@@ -1,0 +1,3 @@
+# HTTP HEADERS
+
+Many characteristic. 
