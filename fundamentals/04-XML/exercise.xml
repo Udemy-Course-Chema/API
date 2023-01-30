@@ -1,0 +1,18 @@
+<UPQ>
+<numerosDeEstudiantes>500</numerosDeEstudiantes>
+<profesores>
+    <sistemas>
+        <nombre>Roberto</nombre>
+    </sistemas>
+    <administracion>
+        <nombre>Valeria</nombre>
+    </administracion>
+</profesores>
+<estudiantes>
+    <nombre>América</nombre>
+    <nombre>David</nombre>
+    <nombre>Raúl</nombre>
+    <nombre>Zamudio</nombre>
+    <nombre>Javier</nombre>
+</estudiantes>
+</UPQ>

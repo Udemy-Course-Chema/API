@@ -1,0 +1,17 @@
+{
+    "Pizza":{
+        "size":"Small",
+        "topppings":{
+            "topping":{
+                "name": "onions",
+                "name2": "Mushrooms"
+            }
+        }
+    },
+    "Pizza2":[
+        {
+            "size":"small",
+            "Toppings": ["onions", "mushrooms"]
+        }
+    ]
+}
