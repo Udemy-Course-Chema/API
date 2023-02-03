@@ -2,7 +2,7 @@
 
 Search: RFC Note 6749
 
-Stand for "Other Authorization". 
+Stand for "Open Authorization". 
 
 
 * OAuth allows a 3rd Party Access
